@@ -10,11 +10,11 @@ Link to the published web app: https://github.com/rainyuxia0112/facial-recogniti
 * [OpenCV](https://opencv.org/) - released under a BSD license and hence it’s free for both academic and commercial use.
 * [PIL](https://pillow.readthedocs.io/en/stable/) - python package which adds image processing capabilities to Python interpreter
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Webcrape from Google Image
-* [os] - Python package for making directory
+* [os](https://docs.python.org/3/library/os.html) - Python package for making directory
 * getimage - python function for storing images which from Google
 * [keras](https://keras.io/) - Python package for CNN
 
 ## Authors
-** Yu Xia
+* Yu Xia
 ## Acknowledgments
 * Inspired by David Chiu
