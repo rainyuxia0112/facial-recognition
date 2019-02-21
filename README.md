@@ -4,7 +4,7 @@ Extracted front face details in each of picture using OpenCV and PIL package
 Used Convolution Neural Network and Maxing Pooling to build recognition model 
 
 ##
-Link to the published web app: https://github.com/rainyuxia0112/facial-recognition/blob/master/picture.ipynb
+Demo : https://github.com/rainyuxia0112/facial-recognition/blob/master/picture.ipynb
 
 ## Built With
 * [OpenCV](https://opencv.org/) - released under a BSD license and hence it’s free for both academic and commercial use.
